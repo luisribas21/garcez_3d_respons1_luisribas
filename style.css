@@ -1,0 +1,11 @@
+body {background-color: rgb(60, 255, 0);}
+@media screen and (min-width: 800px){ 
+    body{background-color: crimson;}
+   body{font-size: 40px;}  
+}
+@media screen and (max-width: 800px){ 
+    body{background-color: rgb(220, 20, 137);}   body{font-size: 60px;}    
+}
+@media screen and (max-width: 500px){ 
+    body{background-color: rgb(255, 251, 0);}   body{font-size: 40px;}    
+}
